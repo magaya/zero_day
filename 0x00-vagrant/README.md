@@ -1,1 +1,1 @@
-Vagrant study file
+uname in Linux ptints out system information 
